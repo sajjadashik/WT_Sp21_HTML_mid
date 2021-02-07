@@ -1,11 +1,16 @@
+<html>
+<body>
 <?php
 $name="Faruk";
 if($name=="raju"||$name=="mina"||$name=="mithu")
 {
-	echo "Hello";
+	echo "<b>Hello</b>";
 }
+
 else
 {
-	echo "You are not recognized";
+	echo "<b>You are not recognized<b>";
 }
 ?>
+<?body>
+</html>
